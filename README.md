@@ -1,4 +1,4 @@
-# Project Context
+Project Context
 
 My idea is to create a program for the management of restaurants and small businesses. What I am looking for is for them to be able to visualize their finances, progress, pending tasks, and problems in a simple way, similar to a dashboard.
 
@@ -8,7 +8,9 @@ The main idea is for the program to show the information in a visual and easy-to
 
 With this information, better decisions could be made based on data, mainly in areas such as sales, expenses, profits, pending tasks, and problems that may be affecting the business.
 
-# Algorithm
+AI helped me improve my idea and algorithm. I explained my idea about a dashboard for restaurants. This program would allow the personnel to make correct decisions based on data. I read the information that the AI proposed to me and I considered it solid. It helped me give a structure to the idea.
+
+Algorithm
 
 1. Start the program.
 
