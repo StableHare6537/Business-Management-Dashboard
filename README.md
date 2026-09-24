@@ -1,4 +1,4 @@
-Project Context
+# Project Context
 
 My idea is to create a program for the management of restaurants and small businesses. What I am looking for is for them to be able to visualize their finances, progress, pending tasks, and problems in a simple way, similar to a dashboard. This beacuse I have some experience in Power Bi and i could notice the necessity of a screen with all the information in a simple way. 
 
@@ -10,7 +10,7 @@ With this information, better decisions could be made based on data, mainly in a
 
 AI helped me improve my idea and algorithm. I explained my idea about a dashboard for restaurants. This program would allow the personnel to make correct decisions based on data. I read the information that the AI proposed to me and I considered it solid. It helped me give a structure to the idea.
 
-Algorithm
+## Algorithm
 
 1. Start the program.
 
